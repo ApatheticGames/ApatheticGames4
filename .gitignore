@@ -1,0 +1,30 @@
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/
+
+##########################
+# VS Generated Files #
+##########################
+*.VC.db
+.vs/APatheticGame/v15/Solution.VC.db-wal
+.vs/APatheticGame/v15/Browse.VC.opendb
+.vs/APatheticGame/v15/Solution.VC.db-shm
+Binaries/Win64/UE4Editor.modules
+Binaries/Win64/UE4Editor-APatheticGame-6366.pdb
+Binaries/Win64/UE4Editor-APatheticGame-6366.dll
+.vs/APatheticGame/v15/.suo
+Binaries/Win64/UE4Editor.modules
+.vs/APatheticGame/v15/.suo
+.vs/APatheticGame/v15/.suo
+Binaries/Win64/UE4Editor.modules
+Binaries/*
+Saved/Backup/*
+Content/ParagonShinbi/*
+Content/AnimStarterPack/*
+Content/KiteDemo/*
